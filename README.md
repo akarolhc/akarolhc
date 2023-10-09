@@ -1,20 +1,11 @@
 ### Olá, eu sou a Ana Karolina 👋
 
--🌱 Estou cursando o segundo semestre de Análises e Desenvolvimento de Sistemas.
+🖳 Estou cursando o segundo semestre de Análises e Desenvolvimento de Sistemas.
 
--🤔 Atualmente, estou estudando as linguagens Java, JS e C.
+🎒 Atualmente, estou estudando Java, JS, HTML/CSS e C.
 
-<!--
-**akarolhc/akarolhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Estou cursando o segundo semestre de Análises e Desenvolvimento de Sistemas.
-- 👯 I’m looking to collaborate on ...
-- 🤔 No momento estou estudando as Linguagens de Programação Java, JS e C.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://instagram.com/akarolhc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:akarolhc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-karolina-holmes-coelho-a608691b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
