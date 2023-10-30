@@ -2,7 +2,9 @@
 
 🖳 Estou cursando o segundo semestre de Análises e Desenvolvimento de Sistemas.
 
-🎒 Atualmente, estou estudando Java, JS, HTML/CSS e C.
+🎒 Atualmente, estou estudando HTML/CSS, JS, C e JAVA.
+
+👩🏼‍💻 Estagiando na área de QA na NG Informática.
 
 <div>
 <a href="https://instagram.com/akarolhc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
