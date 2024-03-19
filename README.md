@@ -1,8 +1,8 @@
 ### Olá, eu sou a Ana Karolina 👋
 
-🖳 Estou cursando o segundo semestre de Análises e Desenvolvimento de Sistemas.
+🖳 Estou cursando o terceiro semestre de Análises e Desenvolvimento de Sistemas.
 
-🎒 Atualmente, estou estudando HTML/CSS, JS, C e JAVA.
+🎒 Atualmente, estou estudando HTML/CSS, JS, Node, C, C++ e JAVA.
 
 👩🏼‍💻 Estagiando na área de QA na NG Informática.
 
