@@ -1,10 +1,8 @@
 ### Olá, eu sou a Ana Karolina 👋
 
-🖳 Estou cursando o terceiro semestre de Análises e Desenvolvimento de Sistemas.
+🖳 Estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas.
 
-🎒 Atualmente, estou estudando HTML/CSS, JS, Node, C, C++ e JAVA.
-
-👩🏼‍💻 Estagiando na área de QA na NG Informática.
+👩🏼‍💻 QA na NG Informática.
 
 <div>
 <a href="https://instagram.com/akarolhc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
